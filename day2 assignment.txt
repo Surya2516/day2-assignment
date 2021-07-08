@@ -1,0 +1,9 @@
+//day 2 assignment
+for(r=1;r<=5;r=r+1){
+  s=""
+  for(c=1;c<=r;c++){
+    s=s+"*"
+    
+  }
+  console.log(s)
+}
